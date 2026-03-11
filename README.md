@@ -9,4 +9,6 @@ Testes sem expiração dos dados:
 
 Testes com dados expirando:
 
-![alt](https://)
+![ConsoleApp com expiração dos dados](img/consoleapp-02.png)
+
+![Redis com expiração dos dados](img/redis-02.png)
