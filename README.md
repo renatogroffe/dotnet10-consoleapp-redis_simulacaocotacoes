@@ -1,6 +1,8 @@
 # dotnet10-consoleapp-redis_simulacaocotacoes
 Exemplo em .NET 10 de Console Application para geração simulada de cotações de moedas estrangeiras (dólar, euro e libra) no Redis.
 
+Mais informações sobre o Redis Insight: https://redis.io/insight/
+
 Testes sem expiração dos dados:
 
 ![ConsoleApp sem expiração dos dados](img/consoleapp-01.png)
